@@ -6,4 +6,4 @@ for = "/*.js"
 [[headers]]
 for = "/*.wasm"
   [headers.values]
-  Content-Type = "application/wasm
+  Content-Type = "application/wasm"
